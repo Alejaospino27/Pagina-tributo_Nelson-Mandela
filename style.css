@@ -1,17 +1,19 @@
 #main {
-  max-width: 1200px;
+  max-width: auto;
   max-height: auto;
-  margin: 30px auto;
+  margin: 10px auto;
   padding: 15px;
-  background-color: #dddddd;
+  background-color: #52a36a;
   border-radius: 5px;
+  font-family: verdana;
   
 }
 
 
 #info{
 
-    font-size: medium;
+    font-size: 30px;
+    font-style: italic;
 }
 
 
@@ -31,7 +33,7 @@
   max-width: 800px;
   margin: 0 auto;
   padding: 15px;
-  background-color: #ffffff;
+  background-color: #a9a2bb7c;
  
 }
 
@@ -40,6 +42,11 @@
   display: block;
   max-width: 100%;
   margin: 0 auto;
+}
+
+#img-caption
+{
+    text-align: center;
 }
 
 #tribute-info {
